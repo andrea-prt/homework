@@ -8,7 +8,7 @@ import subprocess
 import base64
 
 # Set your OpenAI API Key here
-openai.api_key = "sk-svcacct-BjW8iBg-CFQoRueNxsWmsMjmE8LG05qRpPFWGlpGlhjDmhqlTNJ6fUoSr2tS2KlT3BlbkFJGulifHd5ldeh_qCgQi1aSHDTu7LpBCImdHlaJ6D6C7O4jDqdQNzCR85U0g8niAA"  # Replace with your actual API key
+openai.api_key = "sk-svcacct-BjW8iBg-"  # Replace with your actual API key
 
 st.title("Chatbot Interface")
 
